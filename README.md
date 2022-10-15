@@ -6,4 +6,8 @@ I’m currently working as Advanced Azure Networking Specialist (GBB) In Microso
 
 [Azure VPN NAT MicroHack](https://github.com/Danieleg82/AzureVPN-NAT)
 
+**Azure ExpressRoute**
+
+[Expressroute traffic segregation options over multiple circuits](https://github.com/Danieleg82/EXR-segregation-options)
+
 
