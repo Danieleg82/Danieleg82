@@ -10,4 +10,6 @@ I’m currently working as Advanced Azure Networking Specialist (GBB) In Microso
 
 [Expressroute traffic segregation options over multiple circuits](https://github.com/Danieleg82/EXR-segregation-options)
 
+**Azure Firewall**
 
+[AZURE FIREWALL PREMIUM - MICROHACK](https://github.com/Danieleg82/AzFireWallPremium-MH)
