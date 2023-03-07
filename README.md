@@ -13,3 +13,7 @@ I’m currently working as Advanced Azure Networking Specialist (GBB) In Microso
 **Azure Firewall**
 
 [AZURE FIREWALL PREMIUM - MICROHACK](https://github.com/Danieleg82/AzFireWallPremium-MH)
+
+**Azure Virtual Network Manager (AVNM)**
+
+[AVNM for vWAN RED & BLUE SCENARIO](https://github.com/Danieleg82/vWAN-AVNM-ForRed-Blue)
