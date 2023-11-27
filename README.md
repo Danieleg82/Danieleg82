@@ -17,3 +17,7 @@ I’m currently working as Advanced Azure Networking Specialist (GBB) In Microso
 **Azure Virtual Network Manager (AVNM)**
 
 [AVNM for vWAN RED & BLUE SCENARIO](https://github.com/Danieleg82/vWAN-AVNM-ForRed-Blue)
+
+**Azure Virtual WAN (vWAN)**
+
+[vWAN Indirect Spoke model: keeping or rearchitecting?](https://github.com/Danieleg82/vWAN-Indirect-Spoke)
