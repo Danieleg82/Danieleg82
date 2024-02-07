@@ -4,6 +4,8 @@ I’m currently working as Advanced Azure Networking Specialist (GBB) In Microso
 
 **Azure VPN**
 
+[Azure S2S VPN - Overview](https://github.com/Danieleg82/AzureS2SVPN-Overview)
+
 [Azure VPN NAT MicroHack](https://github.com/Danieleg82/AzureVPN-NAT)
 
 **Azure ExpressRoute**
