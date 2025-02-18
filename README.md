@@ -12,7 +12,7 @@ I’m currently working as Advanced Azure Networking Specialist (GBB) In Microso
 
 [Expressroute traffic segregation options over multiple circuits](https://github.com/Danieleg82/EXR-segregation-options)
 
-[Managing Access to Multiple VRFs from Azure VNETs]([https://github.com/Danieleg82/EXR-segregation-options](https://techcommunity.microsoft.com/blog/azurenetworkingblog/managing-access-to-multiple-vrfs-from-azure-vnets/4382355)
+[Managing Access to Multiple VRFs from Azure VNETs](https://techcommunity.microsoft.com/blog/azurenetworkingblog/managing-access-to-multiple-vrfs-from-azure-vnets/4382355)
 
 **Azure Firewall**
 
